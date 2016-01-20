@@ -11,12 +11,12 @@ run this on a production server without proper testing in a container or virtual
 
 Debian based systems (Debian, Ubuntu)
 
-    sudo apt-get install git puppet
+    sudo apt-get -y install git puppet
 
 RedHat based systems (RedHat, CentOS, Fedora)
 
-    sudo yum install epel-release git
-    sudo yum install puppet
+    sudo yum -y install epel-release git
+    sudo yum -y install puppet
 
 #### Create and change to /protwis directory
 
