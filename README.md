@@ -30,11 +30,11 @@ RedHat based systems (RedHat, CentOS, Fedora)
 
 #### Clone this repository and name it "conf" (the name is important):
 
-    git clone https://github.com/protwis/protwis_prod_conf.git conf
+    git clone --recursive https://github.com/protwis/protwis_prod_conf.git conf
 
 #### Open repo:
 
-    cd protwis_prod_conf
+    cd conf
 
 #### Run with Puppet:
 
