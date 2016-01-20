@@ -26,7 +26,7 @@ RedHat based systems (RedHat, CentOS, Fedora)
 
 #### Clone the protwis repository
 
-    git clone https://github.com/protwis/protwis
+    git clone https://github.com/protwis/protwis sites/protwis
 
 #### Clone this repository and name it "conf" (the name is important):
 
