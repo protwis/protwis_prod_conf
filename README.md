@@ -1,11 +1,11 @@
 Production configuration for Protwis on linux servers using Puppet
 
+### Instructions
+
 Tested on **Ubuntu 14.04** and **CentOS 7** (may need tweaks for other systems).
 
 WARNING: Running this script changes the configuration of your system and may override important settings, **DO NOT**
 run this on a production server without proper testing in a container or virtual machine.
-
-### Instructions
 
 #### Install Git and Puppet
 
