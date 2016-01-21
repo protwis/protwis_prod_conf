@@ -74,7 +74,7 @@ In /protwis/sites/protwis/protwis/settings_local.py
 #### Change the allowed hosts
 
 In /protwis/sites/protwis/protwis/settings_local.py, change to allowed hosts to the hostname or IP address users will
-use to access the protwis instance. This could be a domain name like "www.prowis.org" or or an IP address like
+use to access the protwis instance. This could be a domain name like "www.prowis.org" or an IP address like
 "123.124.125.126"
 
     ALLOWED_HOSTS = ['123.124.125.126']
