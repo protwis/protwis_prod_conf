@@ -21,7 +21,7 @@ RedHat based systems (RedHat, CentOS, Fedora)
 #### Create and change to /protwis directory
 
     sudo mkdir /protwis
-    sudo chown $USER /protwis
+    sudo chown $USER:$USER /protwis
     cd /protwis
 
 #### Clone the protwis repository
